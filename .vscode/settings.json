@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.hs": "haskell",
+        "*.conf": "plaintext",
+        "typeinfo": "c"
+    }
+}

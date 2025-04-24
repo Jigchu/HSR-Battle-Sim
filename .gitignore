@@ -1,0 +1,6 @@
+# Obj files and executables
+*.o
+*.exe
+
+# Data files for tests
+*.dat
